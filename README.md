@@ -2,7 +2,9 @@
 
 I should start by saying `theyorubayesian` is a portmanteau of Yorùbá and Bayesian.
 As theyorubayesian, I am a software engineer operating/researching at the intersection of distributed systems, information retrieval, and artificial intelligence.
-You may learn about other parts of me in time.
+You may learn about other parts of me in time. 
+
+See [Google Scholar](https://scholar.google.co.jp/citations?user=QXGZ_yQAAAAJ&hl=en) for research publications.
 
 ## Machine Learning Operations
 
