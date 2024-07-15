@@ -25,7 +25,8 @@ Feel free to reach out to sponsor TARESCO or collaborate in this area :)
 I was the Lead Instructor for the 2019 AI Saturdays Lagos' Cohort.
 I worked with instructors, mentors and buddies to develop a [hands-on introduction to data science course](https://github.com/AISaturdaysLagos/cohort7_practicals) for over 100 students.
 I still interact with students who got their start through AI Saturdays Lagos and provide guidance where possible.
-I led a [Neural Nets for Natural Language Processing Reading Cohort](https://akintunde.notion.site/Masakhane-Study-NLP-Homepage-816ac23d50e54d568f991129e04f0bda) with the Masakhane community.
+
+I also led a [Neural Nets for Natural Language Processing Reading Cohort](https://akintunde.notion.site/Masakhane-Study-NLP-Homepage-816ac23d50e54d568f991129e04f0bda) with the Masakhane community.
 I hope to champion more reading cohorts with an improved format in future.
 I developed an [AutoML course](https://www.linkedin.com/learning/automl-build-production-ready-models-quickly/apply-machine-learning-to-problems) for LinkedIn Learning. While that was fun and challenging, I prefer interaction-based learning, so it may be my solo effort in that regard.
 
